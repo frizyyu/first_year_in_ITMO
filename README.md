@@ -3,14 +3,14 @@
 
 ### Задания:<br />
 
-&ensp; Английский<br />
+&nbsp; Английский<br />
 
 - [дз 1](https://github.com/frizyyu/first_year_in_ITMO/files/12570159/English.hw.1.pdf)<br />
 
-&ensp; Прога<br />
+&nbsp; Прога<br />
 
 - [лаба 1](https://github.com/frizyyu/lab1_prog)<br />
 
-&ensp; ОПД<br />
+&nbsp; ОПД<br />
 
 - лаба 1
