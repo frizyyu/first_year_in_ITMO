@@ -1,14 +1,16 @@
 # Гайд для СППО по первому году обучения в университете ИТМО
 <br />
 
-Английский<br />
+### Задания:<br />
 
-- [дз 1](https://github.com/frizyyu/first_year_in_ITMO/files/12570159/English.hw.1.pdf)<br />
+&ensp; Английский<br />
 
-Прога<br />
+&emsp; - [дз 1](https://github.com/frizyyu/first_year_in_ITMO/files/12570159/English.hw.1.pdf)<br />
 
-- [лаба 1](https://github.com/frizyyu/lab1_prog)<br />
+&ensp; Прога<br />
 
-ОПД<br />
+&emsp; - [лаба 1](https://github.com/frizyyu/lab1_prog)<br />
 
-- лаба 1
+&ensp; ОПД<br />
+
+&emsp; - лаба 1
