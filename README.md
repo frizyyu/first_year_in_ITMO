@@ -23,6 +23,7 @@
 &nbsp; Информатика<br />
 
 - [отчёты лаб]([https://github.com/frizyyu/first_year_in_ITMO/tree/main/опд%20лабы](https://github.com/frizyyu/first_year_in_ITMO/tree/main/инфа%20лабы))<br />
+
 - [анотации](https://github.com/frizyyu/first_year_in_ITMO/tree/main/инфа%20анотации)
 
 ### Конспекты лекций:<br />
