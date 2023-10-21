@@ -3,18 +3,10 @@
 
 ### Задания:<br />
 
-&nbsp; Английский<br />
-
-- [дз 1](https://github.com/frizyyu/first_year_in_ITMO/files/12570159/English.hw.1.pdf)<br />
-- [дз 2.1](https://github.com/frizyyu/first_year_in_ITMO/files/12719243/English.hw.2.1.pdf)<br />
-- [дз 2.2](https://github.com/frizyyu/first_year_in_ITMO/files/12719247/English.hw.2.2.pdf)<br />
-- [дз 3](https://github.com/frizyyu/first_year_in_ITMO/files/12719258/Image.to.PDF.20230924.13.32.50.pdf)<br />
-
-
-
 &nbsp; Прога<br />
 
 - [лаба 1](https://github.com/frizyyu/lab1_prog)<br />
+- [лаба 2](https://github.com/frizyyu/lab2_prog)<br />
 
 &nbsp; ОПД<br />
 
