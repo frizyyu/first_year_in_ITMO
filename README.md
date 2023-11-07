@@ -18,6 +18,10 @@
 
 - [анотации](https://github.com/frizyyu/first_year_in_ITMO/tree/main/инфа%20анотации)
 
+&nbsp; Дискра<br />
+
+- [домашки](https://github.com/frizyyu/first_year_in_ITMO/tree/main/Дискра)<br />
+
 ### Конспекты лекций:<br />
 
 не уверен, что почерк можно разобрать :)
