@@ -23,7 +23,7 @@
 
 &nbsp; Дискра<br />
 
-- [домашки и курсач 1 сем](https://github.com/frizyyu/first_year_in_ITMO/tree/main/Дискра)<br />
+- [тык](https://github.com/frizyyu/first_year_in_ITMO/tree/main/Дискра)<br />
 
 &nbsp; Английский<br />
 
