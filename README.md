@@ -1,6 +1,6 @@
 # Гайд для СППО по первому году обучения в университете ИТМО
 <br />
-ВСё доделываю, только дискра постоянно в последней версии
+ВСё доделываю
 
 ### Задания:<br />
 
@@ -10,6 +10,9 @@
 - [лаба 2](https://github.com/frizyyu/lab2_prog)<br />
 - [лаба 3](https://github.com/frizyyu/lab3_prog/tree/main)<br />
 - [лаба 4](https://github.com/frizyyu/lab4_prog/tree/main)<br />
+- [лаба 5](https://github.com/frizyyu/lab5_prog/tree/main)<br />
+- [лаба 6](https://github.com/frizyyu/lab6_prog/tree/main)<br />
+- [лаба 7](https://github.com/frizyyu/lab7_prog/tree/main)<br />
 
 &nbsp; ОПД<br />
 
