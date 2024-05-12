@@ -13,6 +13,7 @@
 - [лаба 5](https://github.com/frizyyu/lab5_prog/tree/main)<br />
 - [лаба 6](https://github.com/frizyyu/lab6_prog/tree/main)<br />
 - [лаба 7](https://github.com/frizyyu/lab7_prog/tree/main)<br />
+- [лаба 8](https://github.com/frizyyu/lab8_prog/tree/main)<br />
 
 &nbsp; ОПД<br />
 
