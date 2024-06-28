@@ -24,6 +24,10 @@
 
 - [отчёты лаб](https://github.com/frizyyu/first_year_in_ITMO/tree/main/DB)<br />
 
+&nbsp; КИК<br />
+
+- [тык](https://github.com/frizyyu/first_year_in_ITMO/tree/main/кик)<br />
+
 &nbsp; Информатика<br />
 
 - [отчёты лаб](https://github.com/frizyyu/first_year_in_ITMO/tree/main/инфа%20лабы)<br />
