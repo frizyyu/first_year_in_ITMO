@@ -50,3 +50,11 @@
 &nbsp; Физра<br />
 
 - Набрать 100 баллов, иначе неприятно будет, но на неё главное не забивать, тогда можно посещениями набрать 100 (1 посещение = 5 баллов)
+
+&nbsp; всякое полезное(теория, расписанные билеты и тд)<br />
+!!Не все файлы делал я. Некоторые нашёл на гитхабах/в чатах, просто собрал в кучку то, что у меня было (если вы не хотите, чтобы в здесь находился ваш файл, напишите мне)
+- [тык, там файлы](https://github.com/frizyyu/first_year_in_ITMO/tree/main/Дискра)<br />
+- [опд экз](https://docs.google.com/document/d/1ZveAVdX8P1aXqcTG5D9Hdh-YuqXBNfh_HkBSug_vk00/edit)<br />
+- [опд 7 лаба](https://trail-thorium-707.notion.site/7-96be4245ef3f400897e124ef659a6291)<br />
+- [бд экз](https://trail-thorium-707.notion.site/642e1821fff24c8bab65c1d327a9c8d2)<br />
+- [ютуб с гайдами по дискре(2 сем)](https://www.youtube.com/channel/UCYURM37Fxk1VdtO2Zmv_lBw)<br />
