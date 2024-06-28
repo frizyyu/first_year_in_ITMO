@@ -20,6 +20,10 @@
 - [отчёты лаб](https://github.com/frizyyu/first_year_in_ITMO/tree/main/опд%20лабы)<br />
 - [бэвм](https://github.com/frizyyu/first_year_in_ITMO/blob/main/bcomp-ng.jar)<br />
 
+&nbsp; БД<br />
+
+- [отчёты лаб](https://github.com/frizyyu/first_year_in_ITMO/tree/main/DB)<br />
+
 &nbsp; Информатика<br />
 
 - [отчёты лаб](https://github.com/frizyyu/first_year_in_ITMO/tree/main/инфа%20лабы)<br />
